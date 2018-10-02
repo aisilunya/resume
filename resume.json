@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "name": "Aisylu Shakirova",
+    "label": "Frontend developer",
+    "picture": "AisyluShakirova.jpeg",
+    "email": "aisilunya@gmail.com",
+    "phone": "+49 176 8660 7570",
+    "website": "",
+    "summary": "I'm passionate web developer in Berlin. Two years ago I started to learn programming and became developer. My specialization is frontend and I also have experience in backend development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Frontend Developer",
+      "website": "",
+      "startDate": "2018-05-01",
+      "endDate": "now",
+      "summary": "Developing tatar language quotations portal.",
+      "highlights": [
+        "Developing frontend using Vue.js",
+        "Developing the part of API backend using Flask and PostgreSQL"
+      ]
+    },
+    {
+      "company": "Axiros",
+      "position": "Junior Python Developer",
+      "website": "https://www.axiros.com/",
+      "startDate": "2017-10-21",
+      "endDate": "2018-04-10",
+      "summary": "The German based technology leader in device management, TR-069, and IoT solutions for service providers, enterprises, and OEMs.",
+      "highlights": [
+        "Developing python tools for  ACS and developing test cases",
+        "Coding on Python2",
+        "Configuration development for Wi-Fi routers",
+        "Integration this devices with the company's system using the TR-069 protocol",
+        "Automation of the router configuration process.",
+        "Writing custom scripts within the scope of integration tasks of the company's system (Support Portal Axiros) with Wi-Fi  routers"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Freelancer,  student of courses  “Java Programming”",
+      "website": "",
+      "startDate": "2017-07-03",
+      "endDate": "2017-10-20",
+      "summary": "Development landing pages on freelance. Studying Java programming language.",
+      "highlights": []
+    },
+    {
+      "company": "Imperium Web Corporation",
+      "position": "Web Developer",
+      "website": "https://imperium.im/",
+      "startDate": "2017-03-27",
+      "endDate": "2017-07-02",
+      "summary": "Marketing agency",
+      "highlights": [
+        "Developing landing pages. Developing multi-page portals on CMS 1C-Bitrix",
+        "Website development, mainly landing pages, multi-page sites using CMS 1C-Bitrix.",
+        "Adaptive and cross-browser layout with using HTML5, CSS, JQuery, Bootstrap, Uikit, Less, Gulp, less PHP and JavaScript. "
+      ]
+    },
+    {
+      "company": "LLC MPNU",
+      "position": "Heat pipe designer",
+      "website": " www.mpnu.ru",
+      "startDate": "2010-05-24",
+      "endDate": "2016-04-28",
+      "summary": "Design, supply, construction of industrial boilers and mini-CHP",
+      "highlights": [
+        "Design of large and medium capacity boiler houses (up to 30 MW). . Designing of power centers with GTU application.  Aerodynamic calculation of the gas-air tract of installations. ",
+        "Selection of equipment, designing of the principal and design scheme, agreement with the customer, developing of schemes and drawings",
+        "Designing of heat networks: selection of tracing, placement of fixed supports, calculation for strength and stability; development of the circuit, profile of the route, nodes and specifications, calculation of heat loss, performance of the UDC system, etc"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kazan Power Engineering University, Kazan, Russia",
+      "area": "Institute of Thermal Power Engineering",
+      "studyType": "Master",
+      "startDate": "2004-09-01",
+      "endDate": "2010-07-03",
+      "gpa": "5.0",
+      "courses": []
+    },
+    {
+      "institution": "Kazan Power Engineering University, Kazan, Russia",
+      "area": "Institute of Thermal Power Engineering",
+      "studyType": "PhD",
+      "startDate": "2010-09-01",
+      "endDate": "2014-12-26",
+      "gpa": "",
+      "courses": [
+        " Java Programming  IT-academy (Kazan, IT-park), java developer",
+        "HTML and  CSS IT-academy (Kazan, IT-park), web developer"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "CSS",
+        "HTML",
+        "Javascript",
+        "Less",
+        "Python",
+        "Git",
+        "Vue.js",
+        "Bootstrap",
+        "Uikit",
+        "trello",
+        "bitbucket",
+        "github",
+        "linux commamd line",
+        "linux user",
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tatar",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Fluent "
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "German",
+      "fluency": "A2.1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": []
+    },
+    {
+      "name": "Table tennis",
+      "keywords": []
+    },
+    {
+      "name": "Psychology",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
