@@ -25,8 +25,9 @@
       "endDate": "now",
       "summary": "Developing tatar language quotations portal.",
       "highlights": [
-        "Developing frontend using Vue.js",
-        "Developing the part of API backend using Flask and PostgreSQL"
+        "Developing web sites using JavaScript framework Vue.js for frontend, Python framework Flask-RESTful for backend, ORM Flask-SQLAlchemy for working with PostgreSQL."
+        "Developing user authorization, working with backend using API, sending emails with the service SendGrid, integration with logging service Setry, deploy to Heroku. Creating design for the website."
+        "Also developing landing pages using JQuery, HTML, Less, Gulp."
       ]
     },
     {
@@ -131,21 +132,21 @@
     }
   ],
   "languages": [
-    {
-      "language": "Tatar",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Russian",
-      "fluency": "Fluent "
-    },
-    {
+{
       "language": "English",
       "fluency": "Intermediate"
     },
     {
       "language": "German",
       "fluency": "A2.1"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Fluent "
+    },
+    {
+      "language": "Tatar",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
