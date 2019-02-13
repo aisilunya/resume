@@ -6,7 +6,7 @@
     "email": "aisilunya@gmail.com",
     "phone": "+49 176 8660 7570",
     "website": "",
-    "summary": "I'm passionate web developer in Berlin. Two years ago I started to learn programming and became developer. My specialization is frontend and I also have experience in backend development.",
+    "summary": "I'm passionate web developer in Berlin. My specialization is frontend and I also have experience in backend development.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,8 +25,13 @@
       "endDate": "now",
       "summary": "Developing tatar language quotations portal.",
       "highlights": [
-        "Developing web sites using JavaScript framework Vue.js for frontend, Python framework Flask-RESTful for backend, ORM Flask-SQLAlchemy for working with PostgreSQL."
-        "Developing user authorization, working with backend using API, sending emails with the service SendGrid, integration with logging service Setry, deploy to Heroku. Creating design for the website."
+        "Developing web sites using JavaScript framework Vue.js for frontend, Python framework Flask-RESTful for backend, ORM Flask-SQLAlchemy for working with PostgreSQL.",
+        "Developing user authorization,",
+        "Working with backend using API,",
+        "Sending emails with the service SendGrid,",
+        "Integration with logging service Setry,", 
+        "Deploying to Heroku.",
+        "Creating mockup for the website.",
         "Also developing landing pages using JQuery, HTML, Less, Gulp."
       ]
     },
@@ -65,13 +70,13 @@
       "highlights": [
         "Developing landing pages. Developing multi-page portals on CMS 1C-Bitrix",
         "Website development, mainly landing pages, multi-page sites using CMS 1C-Bitrix.",
-        "Adaptive and cross-browser layout with using HTML5, CSS, JQuery, Bootstrap, Uikit, Less, Gulp, less PHP and JavaScript. "
+        "Adaptive and cross-browser layout using HTML5, CSS, JQuery, Bootstrap, Uikit, Less, Gulp, less PHP and JavaScript. "
       ]
     },
     {
       "company": "LLC MPNU",
       "position": "Heat pipe designer",
-      "website": " www.mpnu.ru",
+      "website": "http://www.mpnu.ru/",
       "startDate": "2010-05-24",
       "endDate": "2016-04-28",
       "summary": "Design, supply, construction of industrial boilers and mini-CHP",
