@@ -6,7 +6,7 @@
     "email": "aisilunya@gmail.com",
     "phone": "+49 176 8660 7570",
     "website": "",
-    "summary": "I'm passionate web developer in Berlin. My specialization is frontend and I also have experience in backend development.",
+    "summary": "I'm a passionate web developer in Berlin. Three years ago I started to learn programming and became a developer. My specialization is frontend and I also have experience in backend development.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,9 +29,9 @@
         "Developing user authorization,",
         "Working with backend using API,",
         "Sending emails with the service SendGrid,",
-        "Integration with logging service Setry,", 
+        "Integration with logging service Sentry,", 
         "Deploying to Heroku.",
-        "Creating mockup for the website.",
+        "Creating a mockup for the website.",
         "Also developing landing pages using JQuery, HTML, Less, Gulp."
       ]
     },
@@ -46,7 +46,7 @@
         "Developing python tools for  ACS and developing test cases",
         "Coding on Python2",
         "Configuration development for Wi-Fi routers",
-        "Integration this devices with the company's system using the TR-069 protocol",
+        "Integration these devices with the company's system using the TR-069 protocol",
         "Automation of the router configuration process.",
         "Writing custom scripts within the scope of integration tasks of the company's system (Support Portal Axiros) with Wi-Fi  routers"
       ]
@@ -81,9 +81,9 @@
       "endDate": "2016-04-28",
       "summary": "Design, supply, construction of industrial boilers and mini-CHP",
       "highlights": [
-        "Design of large and medium capacity boiler houses (up to 30 MW). Designing of power centers with GTU application.  Aerodynamic calculation of the gas-air tract of installations. ",
+        "Design of large and medium capacity boiler houses (up to 30 MW). Designing of power centres with GTU application.  Aerodynamic calculation of the gas-air tract of installations. ",
         "Selection of equipment, designing of the principal and design scheme, agreement with the customer, developing of schemes and drawings",
-        "Designing of heat networks: selection of tracing, placement of fixed supports, calculation for strength and stability; development of the circuit, profile of the route, nodes and specifications, calculation of heat loss, performance of the UDC system, etc"
+        "Designing of heat networks: a selection of tracing, placement of fixed supports, the calculation for strength and stability; development of the circuit, a profile of the route, nodes and specifications, calculation of heat loss, the performance of the UDC system, etc"
       ]
     }
   ],
