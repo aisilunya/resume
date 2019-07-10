@@ -5,8 +5,8 @@
     "picture": "AisyluShakirova.jpeg",
     "email": "aisilunya@gmail.com",
     "phone": "+49 176 8660 7570",
-    "website": "",
-    "summary": "I'm a passionate web developer in Berlin. Three years ago I started to learn programming and became a developer. My specialization is frontend and I also have experience in backend development.",
+    "website": "https://www.linkedin.com/in/icede/",
+    "summary": "I'm a passionate web developer in Berlin. My specialization is frontend development and I also have experience in backend development.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,16 +23,16 @@
       "website": "",
       "startDate": "2018-05-01",
       "endDate": "now",
-      "summary": "Developing tatar language quotations portal.",
+      "summary": "Development 'Tatar quotations' web portal using Vue.js and development landing pages with extraordinary animations",
       "highlights": [
-        "Developing web sites using JavaScript framework Vue.js for frontend, Python framework Flask-RESTful for backend, ORM Flask-SQLAlchemy for working with PostgreSQL.",
-        "Developing user authorization,",
+        "Development SPA using JavaScript framework  Vue.js for frontend, Python framework  Flask-RESTful for backend, ORM Flask-SQLAlchemy for working with PostgreSQL.",
+        "Development user authorization,",
         "Working with backend using API,",
         "Sending emails with the service SendGrid,",
-        "Integration with logging service Sentry,", 
+        "Integration with the logging service Sentry,", 
         "Deploying to Heroku.",
         "Creating a mockup for the website.",
-        "Also developing landing pages using JQuery, HTML, Less, Gulp."
+        "Also, landing pages development using JQuery, HTML, Less, Gulp."
       ]
     },
     {
@@ -41,14 +41,12 @@
       "website": "https://www.axiros.com/",
       "startDate": "2017-10-21",
       "endDate": "2018-04-10",
-      "summary": "The German based technology leader in device management, TR-069, and IoT solutions for service providers, enterprises, and OEMs.",
+      "summary": "Axiros - the German based technology leader in device management, TR-069, and IoT solutions for service providers, enterprises, and OEMs.",
       "highlights": [
-        "Developing python tools for  ACS and developing test cases",
-        "Coding on Python2",
-        "Configuration development for Wi-Fi routers",
-        "Integration these devices with the company's system using the TR-069 protocol",
-        "Automation of the router configuration process.",
-        "Writing custom scripts within the scope of integration tasks of the company's system (Support Portal Axiros) with Wi-Fi  routers"
+        "Development scripts for auto-configuration servers (ACS) using Python and testing it.",
+        "Development configuration for customer-premises equipment (CPE) and integration these devices with the company's system 'Support Portal Axiros' using the TR-069 protocol.",
+        "Creating Mikrolibrary on Python for automation of CPE configuration process.",
+        "Writing custom scripts within the scope of integration tasks of the company's system 'Support Portal Axiros' with CPE."
       ]
     },
     {
@@ -57,7 +55,7 @@
       "website": "",
       "startDate": "2017-07-03",
       "endDate": "2017-10-20",
-      "summary": "Development landing pages on freelance. Studying Java programming language.",
+      "summary": "Development of landing pages on freelance. Studying Java programming language.",
       "highlights": []
     },
     {
@@ -65,12 +63,12 @@
       "position": "Web Developer",
       "website": "https://imperium.im/",
       "startDate": "2017-03-27",
-      "endDate": "2017-07-02",
+      "endDate": "2017-07-05",
       "summary": "Marketing agency",
       "highlights": [
-        "Developing landing pages. Developing multi-page portals on CMS 1C-Bitrix",
-        "Website development, mainly landing pages, multi-page sites using CMS 1C-Bitrix.",
-        "Adaptive and cross-browser layout using HTML5, CSS, JQuery, Bootstrap, Uikit, Less, Gulp, less PHP and JavaScript. "
+        "Website development, mainly landing pages and multi-page websites using CMS 1C-Bitrix (analogue of WordPress or Magenta).",
+        "Development adaptive and cross-browser layout using JavaScript, JQuery, HTML5, CSS, Bootstrap, Uikit, Less, Gulp and PHP.",
+        "Development of extraordinary and interesting animations, pixel perfect development, customization of current CMS components for realization clients needs."
       ]
     },
     {
@@ -118,21 +116,23 @@
       "name": "Web Development",
       "level": "",
       "keywords": [
-        "CSS",
-        "HTML",
+        "Vue.js",
         "Javascript",
+        "HTML",
+        "CSS",
         "Less",
         "Python",
         "Git",
-        "Vue.js",
         "Bootstrap",
         "Uikit",
-        "trello",
-        "bitbucket",
-        "github",
+        "Gulp",
+        "Trello",
+        "Bitbucket",
+        "GitHub",
+        "GitLab",
         "linux commamd line",
         "linux user",
-        "SQL"
+        "PostgreSQL"
       ]
     }
   ],
@@ -143,7 +143,7 @@
     },
     {
       "language": "German",
-      "fluency": "A2.1"
+      "fluency": "B2.2"
     },
     {
       "language": "Russian",
@@ -156,15 +156,15 @@
   ],
   "interests": [
     {
-      "name": "Reading",
-      "keywords": []
-    },
-    {
       "name": "Table tennis",
       "keywords": []
     },
     {
       "name": "Psychology",
+      "keywords": []
+    },
+    {
+      "name": "Reading",
       "keywords": []
     }
   ],
