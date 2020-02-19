@@ -6,7 +6,7 @@
     "email": "aisilunya@gmail.com",
     "phone": "+49 176 8660 7570",
     "website": "https://www.linkedin.com/in/icede/",
-    "summary": "I'm a passionate web developer in Berlin. My specialization is frontend development and I also have experience in backend development.",
+    "summary": "I'm a frontend developer/UI UX designer. I have a passion for accuracy and beauty and I try to bring it into my job.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,21 +18,19 @@
   },
   "work": [
     {
-      "company": "Freelance",
+      "company": "Remote job",
       "position": "Frontend Developer",
       "website": "",
       "startDate": "2018-05-01",
       "endDate": "now",
-      "summary": "Development 'Tatar quotations' web portal using Vue.js and development landing pages with extraordinary animations",
+      "summary": "Development SPA and landing pages from zero to launch",
       "highlights": [
-        "Development SPA using JavaScript framework  Vue.js for frontend, Python framework  Flask-RESTful for backend, ORM Flask-SQLAlchemy for working with PostgreSQL.",
-        "Development user authorization,",
-        "Working with backend using API,",
-        "Sending emails with the service SendGrid,",
-        "Integration with the logging service Sentry,", 
-        "Deploying to Heroku.",
-        "Creating a mockup for the website.",
-        "Also, landing pages development using JQuery, HTML, Less, Gulp."
+        "Creating mockup and then UI/UX design using Figma;",
+        "Development frontend side using JavaScript and JavaScript framework Vue.js;",
+        "Development backend side using Python framework Flask-RESTful, ORM Flask-SQLAlchemy for working with PostgreSQL.",
+        
+        "Development user authorization, working with backend using API, sending emails with the service SendGrid, integration with logging service Sentry, deploy to Heroku.",
+        "Working with SEO tools and integration of SEO parameters into websites."
       ]
     },
     {
@@ -73,7 +71,7 @@
     },
     {
       "company": "LLC MPNU",
-      "position": "Heat pipe designer",
+      "position": "Civil engineer",
       "website": "http://www.mpnu.ru/",
       "startDate": "2010-05-24",
       "endDate": "2016-04-28",
@@ -93,7 +91,7 @@
       "studyType": "Master",
       "startDate": "2004-09-01",
       "endDate": "2010-07-03",
-      "gpa": "5.0",
+      "gpa": "",
       "courses": []
     },
     {
@@ -103,9 +101,18 @@
       "startDate": "2010-09-01",
       "endDate": "2014-12-26",
       "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "IT academy, IT-park, Kazan",
+      "area": "Professional courses",
+      "studyType": "Developer",
+      "startDate": "2016-12-01",
+      "endDate": "2017-10-01",
+      "gpa": "",
       "courses": [
-        " Java Programming  IT-academy (Kazan, IT-park), java developer",
-        "HTML and  CSS IT-academy (Kazan, IT-park), web developer"
+        "Java Programming, java developer",
+        "HTML and  CSS, web developer"
       ]
     }
   ],
@@ -127,12 +134,15 @@
         "Uikit",
         "Gulp",
         "Trello",
+        "Kanban",
         "Bitbucket",
         "GitHub",
         "GitLab",
         "linux commamd line",
         "linux user",
-        "PostgreSQL"
+        "PostgreSQL",
+        "Figma",
+        "Avocode"
       ]
     }
   ],
