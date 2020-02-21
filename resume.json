@@ -6,7 +6,7 @@
     "email": "aisilunya@gmail.com",
     "phone": "+49 176 8660 7570",
     "website": "https://www.linkedin.com/in/icede/",
-    "summary": "I'm a frontend developer/UI UX designer. I have a passion for accuracy and beauty and I try to bring it into my job.",
+    "summary": "I'm a frontend developer. I have a passion for accuracy and beauty and I try to bring it into my job.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,18 +18,21 @@
   },
   "work": [
     {
-      "company": "Remote job",
+      "company": "Remote",
       "position": "Frontend Developer",
       "website": "",
       "startDate": "2018-05-01",
       "endDate": "now",
-      "summary": "Development SPA and landing pages from zero to launch",
+      "summary": "Development websystems, SPA and landing pages from zero to launch",
       "highlights": [
-        "Creating mockup and then UI/UX design using Figma;",
-        "Development frontend side using JavaScript and JavaScript framework Vue.js;",
-        "Development backend side using Python framework Flask-RESTful, ORM Flask-SQLAlchemy for working with PostgreSQL.",
-        
-        "Development user authorization, working with backend using API, sending emails with the service SendGrid, integration with logging service Sentry, deploy to Heroku.",
+        "Creating mockup;",
+        "Creating UI/UX design using Figma;",
+        "Frontend development using JavaScript and Vue.js;",
+        "Backend development  using Python framework Flask and SQLAlchemy", "Using PostgreSQL.",
+        "JWT user auth",
+        "SendGrid integration",
+        "Sentry integration",
+        "Deployment to Heroku",
         "Working with SEO tools and integration of SEO parameters into websites."
       ]
     },
@@ -43,7 +46,7 @@
       "highlights": [
         "Development scripts for auto-configuration servers (ACS) using Python and testing it.",
         "Development configuration for customer-premises equipment (CPE) and integration these devices with the company's system 'Support Portal Axiros' using the TR-069 protocol.",
-        "Creating Mikrolibrary on Python for automation of CPE configuration process.",
+        "Creating Python utility for automation of CPE configuration process.",
         "Writing custom scripts within the scope of integration tasks of the company's system 'Support Portal Axiros' with CPE."
       ]
     },
