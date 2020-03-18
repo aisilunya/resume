@@ -5,30 +5,33 @@
     "picture": "AisyluShakirova.jpeg",
     "email": "aisilunya@gmail.com",
     "phone": "+49 176 8660 7570",
-    "website": "https://www.linkedin.com/in/icede/",
-    "summary": "I'm a frontend developer. I have a passion for accuracy and beauty and I try to bring it into my job.",
+    "website": "https://resume.iboz.eu/",
+    "summary": "I'm an experienced frontend developer. I have a passion for accuracy and beauty and I try to bring it into my job.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Berlin",
       "countryCode": "DE",
-      "region": ""
+      "region": "Berlin area"
     },
-    "profiles": []
+    "profiles": ["https://www.linkedin.com/in/icede/", "https://www.xing.com/profile/Aisylu_Shakirova/cv"]
   },
   "work": [
     {
-      "company": "Remote",
+      "company": "Self-employment",
       "position": "Frontend Developer",
       "website": "",
       "startDate": "2018-05-01",
       "endDate": "now",
-      "summary": "Development websystems, SPA and landing pages from zero to launch",
+      "summary": "Development web systems, SPA and landing pages from zero to launch for such companies as Wellmedia, Polyter, Hausmaster, Opochta",
       "highlights": [
-        "Creating mockup;",
-        "Creating UI/UX design using Figma;",
+        "My main competency is Frontend development, main skills are JavaScript, Vue/Vuex, Html, CSS, Bootstrap.",
+        "My job includes:",
         "Frontend development using JavaScript and Vue.js;",
-        "Backend development  using Python framework Flask and SQLAlchemy", "Using PostgreSQL.",
+        "Backend development using Python framework Flask and SQLAlchemy, JavaScript-based CMS",
+        "Creating UI/UX design using Figma;",
+        "Creating mockup;",
+        "Using PostgreSQL.",
         "JWT user auth",
         "SendGrid integration",
         "Sentry integration",
@@ -46,7 +49,7 @@
       "highlights": [
         "Development scripts for auto-configuration servers (ACS) using Python and testing it.",
         "Development configuration for customer-premises equipment (CPE) and integration these devices with the company's system 'Support Portal Axiros' using the TR-069 protocol.",
-        "Creating Python utility for automation of CPE configuration process.",
+        "Creating Mikrolibrary on Python for automation of CPE configuration process.",
         "Writing custom scripts within the scope of integration tasks of the company's system 'Support Portal Axiros' with CPE."
       ]
     },
@@ -71,19 +74,6 @@
         "Development adaptive and cross-browser layout using JavaScript, JQuery, HTML5, CSS, Bootstrap, Uikit, Less, Gulp and PHP.",
         "Development of extraordinary and interesting animations, pixel perfect development, customization of current CMS components for realization clients needs."
       ]
-    },
-    {
-      "company": "LLC MPNU",
-      "position": "Civil engineer",
-      "website": "http://www.mpnu.ru/",
-      "startDate": "2010-05-24",
-      "endDate": "2016-04-28",
-      "summary": "Design, supply, construction of industrial boilers and mini-CHP",
-      "highlights": [
-        "Design of large and medium capacity boiler houses (up to 30 MW). Designing of power centres with GTU application.  Aerodynamic calculation of the gas-air tract of installations. ",
-        "Selection of equipment, designing of the principal and design scheme, agreement with the customer, developing of schemes and drawings",
-        "Designing of heat networks: a selection of tracing, placement of fixed supports, the calculation for strength and stability; development of the circuit, a profile of the route, nodes and specifications, calculation of heat loss, the performance of the UDC system, etc"
-      ]
     }
   ],
   "volunteer": [],
@@ -94,11 +84,11 @@
       "studyType": "Master",
       "startDate": "2004-09-01",
       "endDate": "2010-07-03",
-      "gpa": "",
+      "gpa": "5.0",
       "courses": []
     },
     {
-      "institution": "Kazan Power Engineering University, Kazan, Russia",
+      "institution": "PhD, Kazan Power Engineering University, Kazan, Russia",
       "area": "Institute of Thermal Power Engineering",
       "studyType": "PhD",
       "startDate": "2010-09-01",
