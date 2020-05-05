@@ -17,7 +17,7 @@
             }
             
             body {
-              font-size: 15px;
+              font-size: 1em;
               color: #333;
               line-height: 1.42857143;
               background-color: #F0F0F0;
@@ -39,13 +39,45 @@
               padding: 10px;
               border: 1px solid #E6E6E6;
             }
-            
+            .marks {
+              font-weight: 800;
+              font-style: italic;
+              color: #4376a2;
+            }
+            .phd {
+              font-weight: 800;
+              font-style: italic;
+              color: #4376a2;
+            }
+            .uni {
+              background-image: url(./location.png);
+              background-size: 15px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 20px;
+            }
+            .job_location {
+              color: #1A4367;
+              font-weight: 600;
+            }
+            .my_location {
+              background-image: url(./location.png);
+              background-size: 15px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 20px;
+              font-size: 16px;
+              font-weight: 800;
+              font-style: italic;
+              color: #4376a2;
+              margin-left: 100px;
+            }
             body.pdf > #main {
               border: none;
             }
             
             #container > header {
-              padding-top: 6em;
+              padding-top: 3em;
               padding-bottom: 1em;
             }
             
@@ -60,16 +92,16 @@
             }
             
             section > div {
-              margin-bottom: 60px;
+              margin-bottom: 30px;
             }
             .Aisylu_photo {
-              width: 120px;
-              height: 120px;
+              width: 180px;
+              height: 180px;
               display: inline-block;
               position: absolute;
-              top: 52px;
+              top: 50%;
               transform: translateY(-50%);
-              left: -150px;
+              left: -100px;
               border-radius: 50%;
             }
             span.fa
@@ -97,6 +129,7 @@
               margin: 0;
               font-size: 46px;
               display: inline-block;
+              padding-left: 50px;
             }
             
             h2 {
@@ -104,19 +137,20 @@
               color: #4376a2;
               text-transform: uppercase;
               font-weight: normal;
-              padding-top: 20px;
-              margin-bottom: 60px;
+              padding-top: 12px;
+              margin-bottom: 30px;
             }
             
             h3 {
               margin-bottom: 0;
-              font-size: 18px;
+              font-size: 1.1em;
             }
             
             a, a:visited {
-              color: #428BCA;
+              color: #4376a2;
               text-decoration: none;
-              font-weight: bold;
+              font-weight: 700;
+              font-size: 0.9em;
             }
             
             a:hover {
@@ -136,6 +170,10 @@
             
             #summary > p > strong {
               font-size: 1.25em;
+            }
+            #summary p {
+              margin: 5px;
+              margin-left: 100px;
             }
             
             #contact {
@@ -161,7 +199,7 @@
               display: inline-block;
               background: #e8f4ff;
               color: black;
-              font-size: 0.9em;
+              font-size: 1em;
               padding: 5px;
               border: 1px solid #357ebd;
               border-radius: 5px;
@@ -171,7 +209,7 @@
             }
             
             .notes {
-              font-size: 10px;
+              font-size: 1em;
               display: block;
               font-weight: normal;
               text-transform: uppercase;
@@ -182,13 +220,12 @@
             }
             .card-nested {
                 min-height: 0;
-                margin-bottom: 10px;
                 border-width: 1px 0 0 0;
             }
             .card {
                 background: #FFF;
                 border-radius: 3px;
-                padding: 10px;
+                padding: 0;
             }
             
             .skill-level {
@@ -223,9 +260,6 @@
               height: 95%;
               background: #5cb85c;
             }
-            .skill-info {
-              margin-left: 10px;
-            }
             .website a img {
               width: 25px;
               height: 25px;
@@ -242,6 +276,90 @@
               position: absolute;
               left: 20%;
             }
+            .email {
+              background-image: url(./mail.svg);
+              background-size: 15px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 25px;
+            }
+            .phone {
+              background-image: url(./phone.svg);
+              background-size: 15px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 25px;
+            }
+            .my_website {
+              background-image: url(./link.svg);
+              background-size: 15px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 25px;
+            }
+            .my_interests {
+              font-size: 1em;
+              margin: 0;
+            }
+            #interests h2 {
+              margin-bottom: 30px;
+            }
+            #courses h2 {
+              background-image: url(./Group.svg);
+              background-size: 56px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 100px;
+              margin-left: -100px;
+            }
+            #portfolio h2 {
+              background-image: url(./work.svg);
+              background-size: 56px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 100px;
+              margin-left: -100px;
+              margin-bottom: 30px;
+            }
+            #portfolio h3 {
+              margin: 15px 0;
+            }
+            .behance {
+              background-image: url(./beh.svg);
+              background-size: 20px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 30px;
+              cursor: pointer;
+              font-weight: normal;
+            }
+            .github {
+              background-image: url(./github.svg);
+              background-size: 20px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 30px;
+              cursor: pointer;
+              font-weight: normal;
+            }
+            .my_project {
+              background-image: url(./link.svg);
+              background-size: 20px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              font-weight: normal;
+              padding-left: 30px;
+              cursor: pointer;
+            }
+            #visa h2 {
+              background-image: url(./visa.svg);
+              background-size: 56px;
+              background-repeat: no-repeat;
+              background-position: left center;
+              padding-left: 100px;
+              margin-left: -100px;
+              margin-bottom: 30px;
+            }
             @media (max-width: 480px) {
               .skill-info {
                 margin-left: 20px;
@@ -257,6 +375,7 @@
             .list-unstyled {
               padding-left: 0;
               list-style: none;
+              margin: 0;
             }
             
             .card-skills {
@@ -268,7 +387,7 @@
             }
             
             #container {
-              max-width: 800px;
+              max-width: 1200px;
               margin: 0 auto;
             }
             
@@ -283,6 +402,11 @@
             .res-label {
               font-style: italic;
             }
+            a.codeacademy {
+              font-size: 1em;
+              font-weight: normal;
+              cursor: pointer;
+            }
         </style>
     </head>
     
@@ -294,8 +418,8 @@
                     <div id="contact">
                         <div class="email"><a href="mailto:aisilunya@gmail.com">aisilunya@gmail.com</a>
                         </div>
-                        <div class="phone">+49 176 8660 7570</div>
-                        <div class="website"><a href="https://resume.iboz.eu/">https://resume.iboz.eu/</a>
+                        <div class="phone"><a href="tel:+4917686607570">+49 176 8660 7570</a></div>
+                        <div class="my_website"><a href="https://resume.iboz.eu/">https://resume.iboz.eu/</a>
                           <div class="website"><a  class="linkedin" href="https://www.linkedin.com/in/icede/"><img src="./linkedin-brands.svg" alt="LinkedIn"></a>
                             <div class="website"><a class="xing" href="https://www.xing.com/profile/Aisylu_Shakirova/cv"><img src="./xing-square-brands.svg" alt="Xing"></a>
                         </div>
@@ -306,8 +430,10 @@
                     <header> <span><img  class="Aisylu_photo" src="./AisyluShakirova.jpeg" alt="Aisylu Shakirova"></span> 
                          <h2>info</h2>
 
-                    </header>I&#39;m an experienced frontend developer. I have a passion for accuracy
-                    and beauty and I try to bring it into my job.</section>
+                    </header>
+                    <p>I&#39;m an experienced frontend developer. I have a passion for accuracy and style and I try to incorporate it into my job.</p>
+                    <span class="my_location">Berlin, Germany</span>
+                  </section>
                 <hr>
                 <section id="skills">
                     <header>
@@ -315,10 +441,7 @@
                     </header> <span class="fa fa-lg fa-code"></span>
                     <ul class="list-unstyled">
                         <li class="card card-nested card-skills">
-                            <div class="skill-level" rel="tooltip" title="" data-placement="left">
-                                <div class="skill-progress "></div>
-                            </div>
-                            <div class="skill-info"> <strong>Web Development</strong>
+                            <div class="skill-info">
                                 <div class="space-top labels">
                                     <div class="label label-keyword"> <span class="kw">Vue.js</span>
                                     </div>
@@ -372,84 +495,77 @@
 
                     </header>
                     <div>
-                         <h3><em>Frontend Developer</em>,
-
-    Self-employment
-
-    </h3>
- <span class="tenure">2018-05 — Present</span>
+                         <h3><em>Frontend Developer</em>, Self-employment</h3>
+                         <span class="uni job_location">Berlin, Germany,</span>
+ <span class="tenure">2018-05 — Present</span><br>
                         <p>
-                            <p>Development web systems, SPA and landing pages from zero to launch for
+                            <p>Development of web systems, SPA and landing pages from zero to launch for
                                 such companies as Wellmedia, Polyter, Hausmaster, Opochta</p>
                         </p>
-                        <p>My main competency is Frontend development, main skills are JavaScript,
-                          Vue/Vuex, Html, CSS, Bootstrap.</p>
-                          <p>My job includes:</p>
+                        <p>My main area of expertise is Frontend development, main skills are JavaScript, Vue/Vuex, Html, CSS, Bootstrap.</p>
+                          <p>My responsibilities:</p>
                         <ul>
-                            <li>Frontend development using JavaScript and Vue.js;</li>
+                            <li>Frontend development using JavaScript and Vue.js</li>
                             <li>Backend development using Python framework Flask and SQLAlchemy, JavaScript-based
                                 CMS</li>
-                            <li>Creating UI/UX design using Figma;</li>
-                            <li>Creating mockup;</li>
-                            <li>Using PostgreSQL.</li>
+                            <li>Creating UI/UX design using Figma</li>
+                            <li>Creating mockups</li>
+                            <li>Using PostgreSQL</li>
                             <li>JWT user auth</li>
                             <li>SendGrid integration</li>
                             <li>Sentry integration</li>
                             <li>Deployment to Heroku</li>
-                            <li>Working with SEO tools and integration of SEO parameters into websites.</li>
+                            <li>Working with SEO tools and integrating of SEO parameters into websites</li>
                         </ul>
                     </div>
                     <div>
-                         <h3><em>Python Developer</em>,
-
-    <a href="https://www.axiros.com/">Axiros</a>
-
-    </h3>
+                         <h3><em>Software Developer</em>, <a href="https://www.axiros.com/">Axiros</a></h3>
+<span class="uni job_location">Kazan, Russia,</span>
  <span class="tenure">2017-10 — 2018-04</span>
                         <p>
                             <p>Axiros - the German based technology leader in device management, TR-069,
                                 and IoT solutions for service providers, enterprises, and OEMs.</p>
                         </p>
                         <ul>
-                            <li>Development scripts for auto-configuration servers (ACS) using Python
-                                and testing it.</li>
-                            <li>Development configuration for customer-premises equipment (CPE) and integration
+                            <li>Developing and testing scripts for auto-configuration servers (ACS) using Python</li>
+                            <li>Developing configuration for customer-premises equipment (CPE) and integration
                                 these devices with the company&#39;s system &#39;Support Portal Axiros&#39;
-                                using the TR-069 protocol.</li>
-                            <li>Creating Mikrolibrary on Python for automation of CPE configuration process.</li>
+                                using the TR-069 protocol</li>
+                            <li>Creating microlibrary on Python for automation of CPE configuration process</li>
                             <li>Writing custom scripts within the scope of integration tasks of the company&#39;s
-                                system &#39;Support Portal Axiros&#39; with CPE.</li>
+                                system &#39;Support Portal Axiros&#39; with CPE</li>
                         </ul>
                     </div>
                     <div>
-                         <h3><em>Freelancer,  student of courses  “Java Programming”</em>,
-
-    Freelance
-
-    </h3>
+                         <h3><em>Freelancer and a student of courses  “Java Programming”</em>, Freelance</h3>
+                         <span class="uni job_location">Kazan, Russia,</span>
  <span class="tenure">2017-07 — 2017-10</span>
                         <p>
-                            <p>Development of landing pages on freelance. Studying Java programming language.</p>
+                            <p>Developing websites</p>
                         </p>
+                        <ul>
+                          <li>Developing landing pages</li>
+                          <li>Developing HTML layouts for emails</li>
+                          <li>Creating mockups</li>
+                          <li>Studying Java programming language</li>
+                      </ul>
                     </div>
                     <div>
-                         <h3><em>Web Developer</em>,
-
-    <a href="https://imperium.im/">Imperium Web Corporation</a>
-
-    </h3>
+                         <h3><em>Web Developer</em>, <a href="https://imperium.im/">Imperium Web Corporation</a></h3>
+    <span class="uni job_location">Kazan, Russia,</span>
  <span class="tenure">2017-03 — 2017-07</span>
                         <p>
                             <p>Marketing agency</p>
                         </p>
                         <ul>
                             <li>Website development, mainly landing pages and multi-page websites using
-                                CMS 1C-Bitrix (analogue of WordPress or Magenta).</li>
-                            <li>Development adaptive and cross-browser layout using JavaScript, JQuery,
-                                HTML5, CSS, Bootstrap, Uikit, Less, Gulp and PHP.</li>
-                            <li>Development of extraordinary and interesting animations, pixel perfect
-                                development, customization of current CMS components for realization clients
-                                needs.</li>
+                            CMS 1C-Bitrix (analogue of WordPress or Magenta) </li>
+                            <li>Developing responsive and cross-browser layouts using JavaScript, JQuery, HTML5, CSS, Bootstrap, Uikit, Less, Gulp</li>
+                            <li>Developing extraordinary and interesting animations</li>
+                            <li>Pixel perfect
+                            development</li>
+                            <li>Customization of current CMS components for the realization of client
+                            needs</li>
                         </ul>
                     </div>
                 </section>
@@ -459,35 +575,90 @@
                          <h2>education</h2>
 
                     </header>
-                    <div>
-                        
-<h3>
 
-Kazan Power Engineering University, Kazan, Russia
+<div>              
+  <h3>Doctor of Philosophy</h3>
+  <span class="phd">PhD research thesis: &#39;Wastewater treatment using pneumatic flotation&#39;</span><br>
+  <span class="uni">Kazan Power Engineering University, Kazan, Russia
+  </span><br>
+  <span class="tenure">2010-09 — 2014-12</span>
+</div>
 
-</h3>
-<span class="tenure">2004-09 — 2010-07</span>
-                    </div>
-                    <div>
-                        
-<h3>
+<div>                       
+  <h3>Master's in Technology</h3>
+  <span class="marks">Distinction</span><br>
+  <span class="uni">
+    Kazan Power Engineering University, Kazan, Russia
+  </span><br>
+  <span class="tenure">2008-09 — 2010-07</span>
+</div>
+<div>
+  <h3>Bachelor's in Technology</h3>
+  <span class="marks">First class</span><br>
+  <span class="uni">
+    Kazan Power Engineering University, Kazan, Russia
+  </span><br>
+  <span class="tenure">2004-09 — 2008-07</span>
+</div>
+</section>
+<hr>
+<section id="courses">
+  <header> 
+       <h2>courses</h2>
 
-PhD, Kazan Power Engineering University, Kazan, Russia
+  </header>
 
-</h3>
-<span class="tenure">2010-09 — 2014-12</span>
-                    </div>
-                    <div>
-                        
-<h3>
+  <div>                 
+    <h3>Developing with Java</h3>
+    <span class="uni"><a class="codeacademy" href="https://academy.itpark.tech/?city=kazan&lang=en-EN">It academy,</a>  Kazan, Russia</span><br>
+    <span class="tenure">2017-05 — 2017-10</span>
+  </div>
+  <div>                 
+    <h3>Web development using HTML, CSS and JavaScript</h3>
+    <span class="uni"><a class="codeacademy" href="https://academy.itpark.tech/?city=kazan&lang=en-EN">It academy,</a>  Kazan, Russia</span><br>
+    <span class="tenure">2016-12 — 2017-03</span>
+  </div>
+  <div>                 
+    <h3>Learn Python</h3>
+    <a class="codeacademy" href="https://www.codecademy.com/">Codecademy, </a>
+    <span class="tenure">2016-04 — 2016-06</span>
+  </div>
+  <div>                 
+    <h3>Learn SQL</h3>
+      <a class="codeacademy" href="https://www.codecademy.com/">Codecademy, </a>
+      <span class="tenure">2016-06 — 2016-07</span>
+  </div>
+  <div>                 
+    <h3>SQL: Table Transformation</h3>
+    <a class="codeacademy" href="https://www.codecademy.com/">Codecademy, </a>
+    <span class="tenure">2016-07 — 2016-08</span>
+  </div>
+</section>
+<hr>
+<section id="portfolio">
+  <header> 
+       <h2>portfolio</h2>
+  </header>
+  <div>                 
+    <h3>My profiles:</h3>
+    <a class="github" href="https://github.com/aisilunya">Github</a><br>
+    <a class="behance" href="https://www.behance.net/aisilushakirova">Behance</a><br>
+    <h3>Some of my projects: </h3>
+    <a class="my_project" href="https://makal.iboz.eu/">Makal</a><br>
+    <a class="my_project" href="https://www.hausmaster.pro/">Hausmaster</a><br>
+    <a class="my_project" href="http://www.sudexpertiza.org/">Sudexpertiza.org</a><br>
 
-IT academy, IT-park, Kazan
-
-</h3>
-<span class="tenure">2016-12 — 2017-10</span>
-| <span class="keywords">Java Programming, java developer HTML and  CSS, web developer </span>
-                    </div>
-                </section>
+  </div>
+</section>
+<hr>
+<section id="visa">
+  <header> 
+       <h2>Visa</h2>
+  </header>
+  <div>                 
+    <h3>I have a work permit for Germany</h3>
+  </div>
+</section>
                 <hr>
                 <section id="interests">
                     <header> <span class="fa fa-lg fa-bicycle"></span> 
@@ -495,19 +666,8 @@ IT academy, IT-park, Kazan
 
                     </header>
                     <div>
-                         <h3><em>Table tennis</em></h3>
- <span class="tenure">Current</span>
-
-                    </div>
-                    <div>
-                         <h3><em>Psychology</em></h3>
- <span class="tenure">Current</span>
-
-                    </div>
-                    <div>
-                         <h3><em>Reading</em></h3>
- <span class="tenure">Current</span>
-
+                         <p class="my_interests">Table tennis,&nbsp;&nbsp;   Psychology,&nbsp;&nbsp; Reading,&nbsp;&nbsp; Blogging
+                          </p>
                     </div>
                 </section>
             </div>

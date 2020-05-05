@@ -6,7 +6,7 @@
     "email": "aisilunya@gmail.com",
     "phone": "+49 176 8660 7570",
     "website": "https://resume.iboz.eu/",
-    "summary": "I'm an experienced frontend developer. I have a passion for accuracy and beauty and I try to bring it into my job.",
+    "summary": "I'm an experienced frontend developer. I have a passion for accuracy and style and I try to incorporate it into my job.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,20 +23,20 @@
       "website": "",
       "startDate": "2018-05-01",
       "endDate": "now",
-      "summary": "Development web systems, SPA and landing pages from zero to launch for such companies as Wellmedia, Polyter, Hausmaster, Opochta",
+      "summary": "Developing web systems, SPA and landing pages from zero to launch for such companies as Wellmedia, Polyter, Hausmaster, Opochta",
       "highlights": [
-        "My main competency is Frontend development, main skills are JavaScript, Vue/Vuex, Html, CSS, Bootstrap.",
-        "My job includes:",
-        "Frontend development using JavaScript and Vue.js;",
+        "My main area of expertise is Frontend development, main skills are JavaScript, Vue/Vuex, Html, CSS, Bootstrap.",
+        "My responsibilities:",
+        "Frontend development using JavaScript and Vue.js",
         "Backend development using Python framework Flask and SQLAlchemy, JavaScript-based CMS",
-        "Creating UI/UX design using Figma;",
-        "Creating mockup;",
-        "Using PostgreSQL.",
+        "Creating UI/UX design using Figma",
+        "Creating mockups",
+        "Using PostgreSQL",
         "JWT user auth",
         "SendGrid integration",
         "Sentry integration",
         "Deployment to Heroku",
-        "Working with SEO tools and integration of SEO parameters into websites."
+        "Working with SEO tools and integration of SEO parameters into websites"
       ]
     },
     {
@@ -47,20 +47,24 @@
       "endDate": "2018-04-10",
       "summary": "Axiros - the German based technology leader in device management, TR-069, and IoT solutions for service providers, enterprises, and OEMs.",
       "highlights": [
-        "Development scripts for auto-configuration servers (ACS) using Python and testing it.",
-        "Development configuration for customer-premises equipment (CPE) and integration these devices with the company's system 'Support Portal Axiros' using the TR-069 protocol.",
-        "Creating Mikrolibrary on Python for automation of CPE configuration process.",
+        "Developing and testing scripts for auto-configuration servers (ACS) using Python",
+        "Developing configuration for customer-premises equipment (CPE) and integrating these devices with the company's system 'Support Portal Axiros' using the TR-069 protocol",
+        "Creating microlibrary on Python for automation of CPE configuration process",
         "Writing custom scripts within the scope of integration tasks of the company's system 'Support Portal Axiros' with CPE."
       ]
     },
     {
       "company": "Freelance",
-      "position": "Freelancer,  student of courses  “Java Programming”",
+      "position": "Freelancer and student of courses  “Coding in Java programming language”",
       "website": "",
       "startDate": "2017-07-03",
       "endDate": "2017-10-20",
-      "summary": "Development of landing pages on freelance. Studying Java programming language.",
-      "highlights": []
+      "summary": "Developing websites",
+      "highlights": ["Developing landing pages",
+        "Developing HTML layouts for emails",
+        "Creating mockups",
+        "Studying Java programming language"
+      ]
     },
     {
       "company": "Imperium Web Corporation",
@@ -70,9 +74,11 @@
       "endDate": "2017-07-05",
       "summary": "Marketing agency",
       "highlights": [
-        "Website development, mainly landing pages and multi-page websites using CMS 1C-Bitrix (analogue of WordPress or Magenta).",
-        "Development adaptive and cross-browser layout using JavaScript, JQuery, HTML5, CSS, Bootstrap, Uikit, Less, Gulp and PHP.",
-        "Development of extraordinary and interesting animations, pixel perfect development, customization of current CMS components for realization clients needs."
+        "Website development, mainly landing pages and multi-page websites using CMS 1C-Bitrix (analogue of WordPress or Magenta)",
+        "Developing responsive and cross-browser layouts using JavaScript, JQuery, HTML5, CSS, Bootstrap, Uikit, Less, Gulp",
+        "Developing extraordinary and interesting animations", 
+        "Pixel perfect development", 
+        "Customization of current CMS components for the realization client needs"
       ]
     }
   ],
@@ -81,7 +87,7 @@
     {
       "institution": "Kazan Power Engineering University, Kazan, Russia",
       "area": "Institute of Thermal Power Engineering",
-      "studyType": "Master",
+      "studyType": "Master degree",
       "startDate": "2004-09-01",
       "endDate": "2010-07-03",
       "gpa": "5.0",
